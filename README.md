@@ -22,3 +22,6 @@ Para corregir el código, realizamos la validación de entrada:
 Luego al realizar la prueba de acceso al archivo phpinfo.php, no se visualiza el archivo:
 
 
+![image](https://user-images.githubusercontent.com/46895869/51545678-757e8480-1e30-11e9-9031-30bbdf1ce217.png)
+
+
