@@ -13,13 +13,14 @@ Debido a que no hay validación de entrada ni filtros, podemos entrar a la ruta 
 ![image](https://user-images.githubusercontent.com/46895869/51545341-cd68bb80-1e2f-11e9-95f3-3610bd5e8a6f.png)
 
 
+
 Para corregir el código, realizamos la validación de entrada:
 
 
 ![image](https://user-images.githubusercontent.com/46895869/51545597-4c5df400-1e30-11e9-8bac-1936dfe81cc6.png)
 
 
-Luego al realizar la prueba de acceso al archivo phpinfo.php, no se visualiza el archivo:
+Luego realizar la misma prueba que se realizó al inicio con el código corregido, ya no se visualiza el archivo(FILE-INCLUSION-FINAL.txt)
 
 
 ![image](https://user-images.githubusercontent.com/46895869/51545678-757e8480-1e30-11e9-9031-30bbdf1ce217.png)
