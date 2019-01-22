@@ -10,3 +10,9 @@ El funcionamiento tradicional sería trabajar con los archivos file1.php, file2.
 Debido a que no hay validación de entrada ni filtros, podemos entrar a la ruta y visualizar el archivo phpinfo.php:
 
 
+![image](https://user-images.githubusercontent.com/46895869/51545341-cd68bb80-1e2f-11e9-95f3-3610bd5e8a6f.png)
+
+
+Para corregir el código, realizamos la validación de entrada:
+
+
