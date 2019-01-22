@@ -16,3 +16,9 @@ Debido a que no hay validación de entrada ni filtros, podemos entrar a la ruta 
 Para corregir el código, realizamos la validación de entrada:
 
 
+![image](https://user-images.githubusercontent.com/46895869/51545597-4c5df400-1e30-11e9-8bac-1936dfe81cc6.png)
+
+
+Luego al realizar la prueba de acceso al archivo phpinfo.php, no se visualiza el archivo:
+
+
